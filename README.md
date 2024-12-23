@@ -7,6 +7,10 @@ Compared to upstream, we allow to use (non-upstreamable) modifications/hacks to 
 
 Default login address: http://192.168.1.1 or http://immortalwrt.lan, username: __root__, password: _none_.
 
+tr3000 112m编译看过来 选mtk filogic 789x 找到tr3000 直接编译就是112m
+
+
+
 ## Download
 Built firmware images are available for many architectures and come with a package selection to be used as WiFi home router. To quickly find a factory image usable to migrate from a vendor stock firmware to ImmortalWrt, try the *Firmware Selector*.
 
